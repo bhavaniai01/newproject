@@ -1,12 +1,12 @@
 # include<stdio.h>
 
-    int main ()
+    int subtractionprogram ()
     {
     int a=10;
     int b=5; 
     int c;
      c=a-b;
-    printf("add the value a+b.....%d",c);
+    printf("subtract the value a-b.....%d",c);
     return 0;
 
 }
